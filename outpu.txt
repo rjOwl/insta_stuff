@@ -1,5 +1,5 @@
 
-Dockerhub: docker pull formage/hello_test
+Dockerhub: docker pull formage/instabug-demo-docker:tagname
 
 Circleci Job: https://circleci.com/gh/rjOwl/hello_world/58
 
