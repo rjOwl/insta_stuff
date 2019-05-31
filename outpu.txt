@@ -1,4 +1,5 @@
 
-docker pull formage/hello_test
+Dockerhub: docker pull formage/hello_test
 
-Circleci Job: https://github.com/rjOwl/hello_world/commit/ff54acfdd4cff92d7e8f96a20ecfec5764501bd1
+Circleci Job: https://circleci.com/gh/rjOwl/hello_world/58
+
